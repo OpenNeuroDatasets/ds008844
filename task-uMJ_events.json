@@ -1,0 +1,20 @@
+{
+  "onset": {
+    "Description": "Event onset time in seconds"
+  },
+  "duration": {
+    "Description": "Event duration in seconds"
+  },
+  "trial_type": {
+    "Description": "Condition label (stimulus type)"
+  },
+  "rt": {
+    "Description": "Response time in seconds"
+  },
+  "accuracy": {
+    "Description": "Accuracy (1 = correct, 0 = incorrect)"
+  },
+  "stimulus": {
+    "Description": "Stimulus string shown to the subject"
+  }
+}
