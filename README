@@ -1,0 +1,23 @@
+# Known Issues
+
+* Not all participants have data for all functional tasks. The number of participants with available data is:
+  - AR (Auditory Repetition): N = 39
+  - uAR (Untrained Auditory Repetition): N = 36
+  - MJ (Meaning Judgement): N = 39
+  - uMJ (Untrained Meaning Judgement): N = 34
+
+* Some subjects/sessions have missing functional runs or incomplete task data. These differences reflect the data that were available from the original acquisition.
+
+* Sub 9047 ses-2 MJ: The D1S0401 is an incomplete acquisition and contains only 22 volumes (~44 s), whereas D1S0501 contains 197 volumes (~394 s) and matches the full MATLAB event sequence (last onset 378.414 s).
+
+* Subject 9025 does not have events.tsv files as there were no output files found for this subject
+
+* Subject 9102 only has dir64 dwi scan and does not have dir6 dwi scan
+
+* Partial event runs: sub-9033/ses-2/D1S0401; sub-9069/ses-2/D1S0401 (discarded segment); sub-9070/ses-1/D1S0401; sub-9100/ses-1/D1S0401 (discarded segment); sub-9114/ses-2/D1S0301; sub-9114/ses-2/D1S0401. Partial runs were matched to the closest-timed available BOLD scan where possible; full scan/event matches were prioritized, and ambiguous partial runs were left unchanged.
+
+* The dataset was converted from DICOM to NIfTI using dcm2niix (v1.0.20230411). T1-weighted images were defaced using pydeface.
+
+* The dataset has been curated according to the BIDS specification, including correction of file naming, JSON metadata, phase-encoding directions, fieldmap IntendedFor fields, and functional events-file naming.
+
+* Some differences in the number of volumes across scans may be present due to the original acquisition and scanner procedures.
