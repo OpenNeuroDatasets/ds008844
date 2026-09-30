@@ -1,0 +1,10 @@
+{
+  "MeasurementToolMetadata": {
+    "Description": "Derivational Suffix Choice Test of Pseudowords (DSC)",
+    "Citation": "Derivational Suffix Choice Test of Pseudowords used in the MLT assessment battery."
+  },
+  "DSC": {
+    "LongName": "Derivational Suffix Choice raw score",
+    "Description": "Derivational Suffix Choice Test of Pseudowords raw score."
+  }
+}

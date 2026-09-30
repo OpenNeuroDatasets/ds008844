@@ -1,0 +1,10 @@
+{
+  "MeasurementToolMetadata": {
+    "Description": "Boodronibi Morphological Learning Task participant debriefing questionnaire",
+    "DataDescription": "Qualitative participant debriefing responses preserved from the original study workbook. Original response values and question fields are retained except that the internal Record ID and date fields were removed. The study subject number is retained as participant_id."
+  },
+  "participant_id": {
+    "LongName": "BIDS participant identifier",
+    "Description": "Pseudonymous identifier corresponding to the study subject number."
+  }
+}

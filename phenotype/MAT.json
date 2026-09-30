@@ -1,0 +1,10 @@
+{
+  "MeasurementToolMetadata": {
+    "Description": "Morphological Analogy Task (MAT)",
+    "Citation": "Morphological Analogy Task used in the MLT assessment battery."
+  },
+  "MAT": {
+    "LongName": "Morphological Analogy Task raw score",
+    "Description": "Morphological Analogy Task raw score."
+  }
+}
