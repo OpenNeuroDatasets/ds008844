@@ -1,0 +1,121 @@
+onset	duration	trial_type	rt	stimulus
+3.98	0	A2	0.001	Befsil
+7.98	0	B2	0.001	Vustíne
+10.979	0	Perceptual Control	0	-
+13.979	0	A1	0.001	Kévmiš
+16.98	0	Fixation Baseline	0.001	-
+19.981	0	A1	0.001	Zutláfi
+22.98	0	Fixation Baseline	0	-
+25.981	0	B1	0	Faldom
+29.98	0	C2	0.001	Zosnak
+32.98	0	Perceptual Control	0.001	-
+35.981	0	Fixation Baseline	0.001	-
+38.982	0	B1	0.001	Zomgápa
+41.982	0	Perceptual Control	0.001	-
+45.981	0	B2	0.001	Kestapa
+49.983	0	A2	0.001	Puvlani
+52.982	0	Perceptual Control	0	-
+55.983	0	Fixation Baseline	0.001	-
+58.983	0	B1	0	Leškíne
+62.983	0	B2	0	Kestine
+65.983	0	C1	0	Dilvušo
+68.983	0	A1	0.001	Vízgop
+71.983	0	C1	0	Teftida
+74.984	0	A1	0	Zétlif
+78.984	0	B2	0	Gúftom
+81.984	0	Fixation Baseline	0.001	-
+85.984	0	C2	0.001	Šašten
+88.984	0	B1	0	Leškom
+92.485	0	Perceptual Control	0.001	-
+96.486	0	C2	0.002	Pontáda
+99.485	0	C1	0.002	Vusnoka
+102.485	0	Fixation Baseline	0.011	-
+105.485	0	A1	0.002	Povlenu
+108.485	0	B1	0	Guftápa
+111.485	0	Fixation Baseline	0.002	-
+114.486	0	B1	0	Falduk
+117.486	0	Fixation Baseline	0.002	-
+120.486	0	B1	0	Vustuk
+123.486	0	A1	0.002	Vuzgápi
+126.986	0	C1	0	Paldun
+129.986	0	Perceptual Control	0	-
+132.986	0	Perceptual Control	0	-
+136.987	0	A2	0	Gílbok
+139.987	0	Fixation Baseline	0.001	-
+142.987	0	Perceptual Control	0.001	-
+146.988	0	C2	0	Tamšif
+149.987	0	Fixation Baseline	0	-
+152.988	0	C1	0	Vuktel
+155.988	0	Perceptual Control	0	-
+158.988	0	Perceptual Control	0	-
+161.988	0	Perceptual Control	0	-
+164.988	0	Perceptual Control	0	-
+168.989	0	C2	0	šumbúsa
+171.99	0	B1	0	Zómguk
+175.989	0	A2	0	Bifsol
+178.989	0	Fixation Baseline	0	-
+181.99	0	Fixation Baseline	0.001	-
+184.99	0	Fixation Baseline	0	-
+188.49	0	C1	0.001	Daspon
+192.489	0	A2	0.002	Golbéku
+196.49	0	A2	0.002	Kovméšu
+199.49	0	Perceptual Control	0.001	-
+203.49	0	C2	0.002	Zafmate
+206.491	0	Fixation Baseline	0.001	-
+209.491	0	Perceptual Control	0	-
+212.49	0	Fixation Baseline	0.001	-
+215.49	0	Fixation Baseline	0	-
+219.491	0	A2	0.006	Vízgop
+223.491	0	A2	0.006	Bifsol
+226.491	0	C1	0.006	Vuktel
+230.491	0	C2	0.002	šumbúsa
+233.492	0	A1	0.002	Golbéku
+236.491	0	Fixation Baseline	0.001	-
+239.492	0	Perceptual Control	0.014	-
+242.492	0	Perceptual Control	0	-
+246.493	0	B2	0.002	Kestapa
+249.493	0	Fixation Baseline	0	-
+252.498	0	B1	0.006	Guftápa
+255.494	0	C1	0.002	Vusnoka
+259.494	0	C2	0.006	Zafmate
+262.494	0	Fixation Baseline	0.006	-
+266.494	0	A2	0.002	Kévmiš
+269.495	0	A1	0.002	Zétlif
+272.494	0	Perceptual Control	0.006	-
+276.495	0	C2	0.002	Pontáda
+279.495	0	C1	0.002	Tamšif
+282.495	0	Perceptual Control	0.006	-
+285.496	0	Perceptual Control	0.002	-
+288.495	0	Perceptual Control	0.006	-
+291.495	0	B1	0.002	Zómguk
+295.495	0	C2	0.006	Teftida
+298.496	0	A1	0.001	Kovméšu
+301.496	0	C1	0.002	Dilvušo
+305.498	0	B2	0.002	Kestine
+308.496	0	A1	0.001	Befsil
+312.497	0	B2	0.002	Leškom
+315.496	0	Perceptual Control	0.002	-
+319.496	0	A2	0.001	Povlenu
+323.497	0	B2	0.002	Zomgápa
+326.496	0	Fixation Baseline	0.006	-
+329.497	0	A1	0.002	Vuzgápi
+333.498	0	A2	0.002	Gílbok
+337.498	0	C2	0.001	Paldun
+341.498	0	A2	0.001	Zutláfi
+345.998	0	B2	0.002	Falduk
+349.998	0	B2	0	Vustuk
+353.999	0	B2	0	Gúftom
+356.998	0	Fixation Baseline	0	-
+360.999	0	B2	0	Faldom
+363.998	0	Fixation Baseline	0.001	-
+366.999	0	Fixation Baseline	0	-
+369.999	0	Perceptual Control	0	-
+372.999	0	A1	0	Puvlani
+375.999	0	C1	0	Daspon
+379	0	Fixation Baseline	0	-
+381.999	0	Perceptual Control	0	-
+386.001	0	C2	0	Zosnak
+389	0	B1	0	Vustíne
+392	0	C1	0	Šašten
+395.001	0	Perceptual Control	0	-
+398.001	0	B1	0	Leškíne
