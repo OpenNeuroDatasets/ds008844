@@ -1,0 +1,53 @@
+{
+  "Item": {
+    "Description": "Item number identifying the stimulus in the source list."
+  },
+  "Word": {
+    "Description": "Written form of the novel-language stimulus."
+  },
+  "Sound_File": {
+    "Description": "Filename of the audio recording associated with the stimulus."
+  },
+  "Condition": {
+    "Description": "Experimental condition code assigned to the stimulus."
+  },
+  "Base_Form": {
+    "Description": "Code identifying the base form associated with the stimulus."
+  },
+  "Affix_Form": {
+    "Description": "Pattern representing the affix form associated with the stimulus."
+  },
+  "Translation_List": {
+    "Description": "Identifier of the translation list associated with the stimulus."
+  },
+  "Base_Meaning": {
+    "Description": "Semantic meaning associated with the base form."
+  },
+  "Base_Category": {
+    "Description": "Semantic category associated with the base meaning."
+  },
+  "Affix_Meaning": {
+    "Description": "Semantic meaning assigned to the affix."
+  },
+  "MJ1_English_Translation": {
+    "Description": "English translation for the first meaning judgment."
+  },
+  "MJ1_Hebrew_Translation": {
+    "Description": "Hebrew translation for the first meaning judgment."
+  },
+  "MJ1_Translation_Type": {
+    "Description": "Type or correctness classification of the first meaning judgment translation."
+  },
+  "MJ2_English_Translation": {
+    "Description": "English translation for the second meaning judgment."
+  },
+  "MJ2_Hebrew_Translation": {
+    "Description": "Hebrew translation for the second meaning judgment."
+  },
+  "MJ2_Translation_Type": {
+    "Description": "Type or correctness classification of the second meaning judgment translation."
+  },
+  "list_type": {
+    "Description": "Indicates whether the stimulus belongs to the trained or untrained list."
+  }
+}
