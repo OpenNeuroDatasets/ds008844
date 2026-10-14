@@ -1,6 +1,7 @@
 {
 "BIDSVersion": "1.8.0",
 "Name": "The Neural Basis of Morphological Learning of Words",
+"License": "CC0",
 "ReferencesAndLinks": [
 "https://openneuro.org/"
 ],

@@ -65,7 +65,7 @@
   "InPlanePhaseEncodingDirectionDICOM": "COL",
   "ConversionSoftware": "dcm2niix",
   "ConversionSoftwareVersion": "v1.0.20230411",
-  "AcquisitionDate": "01-20-2022",
+  "AcquisitionDate": "01-10-2022",
   "TotalReadoutTime": 0.0289963,
   "IntendedFor": [
     "ses-2/func/sub-9096_ses-2_task-AR_acq-D1S0301_bold.nii.gz",

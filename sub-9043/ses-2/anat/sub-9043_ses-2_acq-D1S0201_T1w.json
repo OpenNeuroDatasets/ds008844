@@ -46,5 +46,5 @@
 	"InPlanePhaseEncodingDirectionDICOM": "ROW",
 	"ConversionSoftware": "dcm2niix",
 	"ConversionSoftwareVersion": "v1.0.20180614 GCC4.9.2",
-	"AcquisitionDate":"04-26-2021"
+	"AcquisitionDate":"04-08-2021"
 }

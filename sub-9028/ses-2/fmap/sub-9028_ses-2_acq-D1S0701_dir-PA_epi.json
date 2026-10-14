@@ -63,7 +63,7 @@
   "InPlanePhaseEncodingDirectionDICOM": "COL",
   "ConversionSoftware": "dcm2niix",
   "ConversionSoftwareVersion": "v1.0.20230411",
-  "AcquisitionDate": "11-10-2020",
+  "AcquisitionDate": "10-19-2020",
   "IntendedFor": [
     "ses-2/func/sub-9028_ses-2_task-AR_acq-D1S0301_bold.nii.gz",
     "ses-2/func/sub-9028_ses-2_task-MJ_acq-D1S0401_run-01_bold.nii.gz",

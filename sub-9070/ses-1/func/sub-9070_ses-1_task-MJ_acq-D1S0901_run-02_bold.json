@@ -66,6 +66,6 @@
   "InPlanePhaseEncodingDirectionDICOM": "COL",
   "ConversionSoftware": "dcm2niix",
   "ConversionSoftwareVersion": "v1.0.20230411",
-  "AcquisitionDate": "07-06-2021",
+  "AcquisitionDate": "05-19-2021",
   "TaskName": "MJ"
 }

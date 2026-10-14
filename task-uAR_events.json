@@ -1,9 +1,13 @@
 {
   "onset": {
-    "Description": "Event onset time in seconds"
+    "LongName": "Event Onset Time",
+    "Description": "Event onset time in seconds",
+    "Units": "s"
   },
   "duration": {
-    "Description": "Event duration in seconds"
+    "LongName": "Event Duration",
+    "Description": "Event duration in seconds",
+    "Units": "s"
   },
   "trial_type": {
     "Description": "Condition label (stimulus type)"
