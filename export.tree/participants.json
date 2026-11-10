@@ -1,0 +1,23 @@
+{
+  "participant_id": {
+    "Description": "Unique participant identifier corresponding to the subject label used in the BIDS dataset."
+  },
+  "birthdate": {
+    "Description": "Participant-reported date of birth. Dates have been anonymized using a participant-specific date shift."
+  },
+  "sex": {
+    "Description": "Participant-reported sex."
+  },
+  "education": {
+    "Description": "Number of years of education completed after obtaining a high school diploma. Education undertaken during high school is excluded."
+  },
+  "handedness_write": {
+    "Description": "Hand reported as used for writing or drawing."
+  },
+  "handedness_throw": {
+    "Description": "Hand reported as used for throwing a ball."
+  },
+  "handedness_brush": {
+    "Description": "Hand reported as used for holding a toothbrush."
+  }
+}

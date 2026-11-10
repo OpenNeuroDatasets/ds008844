@@ -1,0 +1,121 @@
+onset	duration	trial_type	rt	accuracy	stimulus
+3.001	0	Fixation Baseline	-1	1	-
+6.005	0	BI	1.4	1	Bandine
+8.992	0	Fixation Baseline	-1	1	-
+12.98	0	BC2	1.026	1	Banduk
+15.967	0	Fixation Baseline	-1	1	-
+18.958	0	AI	0.552	1	Digzof
+21.944	0	CI	0.69	2	Zefmok
+24.932	0	AI	1.164	2	Gulbáki
+27.92	0	Perceptual Control	0.038	1	-
+31.908	0	BC2	0.488	1	Zómgom
+34.895	0	CI	0.916	1	Dínzet
+37.882	0	AI	0.894	1	Gélbik
+41.869	0	CC2	1.05	2	Genkud
+44.855	0	Fixation Baseline	-1	1	-
+47.842	0	Perceptual Control	-1	2	-
+50.831	0	Fixation Baseline	-1	1	-
+53.82	0	CC1	0.898	1	Kevlumo
+56.806	0	Fixation Baseline	-1	1	-
+59.793	0	BI	1.288	1	Zomgíne
+62.78	0	AC1	0.722	1	Dugzafi
+65.766	0	AI	0.822	1	Šiskon
+68.753	0	CI	0.823	2	Sekliša
+71.74	0	Perceptual Control	-1	2	-
+75.725	0	CC2	0.79	1	Feskun
+78.712	0	CI	0.754	1	Mangit
+81.699	0	CC1	0.862	1	Bunkut
+84.685	0	Perceptual Control	-1	2	-
+87.671	0	Fixation Baseline	-1	1	-
+91.659	0	AC2	0.547	1	Temlip
+94.645	0	CI	0.71	1	Fundimu
+97.631	0	Fixation Baseline	-1	1	-
+100.618	0	CC1	0.564	1	Gosdif
+103.604	0	Perceptual Control	-1	2	-
+106.591	0	BI	1.113	1	Duvnuk
+109.577	0	BC1	1.249	1	Tevlom
+112.562	0	BI	1.225	1	Vustom
+116.549	0	Perceptual Control	-1	2	-
+119.534	0	Fixation Baseline	-1	1	-
+122.521	0	Fixation Baseline	-1	1	-
+125.507	0	AC1	0.731	1	Tomlepu
+128.493	0	BI	0.796	1	Vustápa
+131.48	0	Fixation Baseline	-1	1	-
+134.466	0	BC1	1.051	1	Tevlapa
+137.452	0	Perceptual Control	0.03	1	-
+140.438	0	Fixation Baseline	-1	1	-
+143.425	0	AI	1.338	2	Vézgip
+146.411	0	BI	0.844	2	Kestom
+150.396	0	AC2	1.519	1	Šuskani
+153.382	0	Perceptual Control	-1	2	-
+156.368	0	AC1	1.252	1	Sedmik
+160.359	0	BC2	0.593	1	Duvnine
+163.34	0	Perceptual Control	-1	2	-
+167.326	0	AC2	0.766	1	Sodmeku
+170.313	0	Perceptual Control	-1	2	-
+173.299	0	AI	1.162	1	Vozgépu
+176.285	0	Perceptual Control	-1	2	-
+179.271	0	Perceptual Control	-1	2	-
+182.257	0	BC1	0.874	1	Monšom
+185.244	0	CI	0.828	1	Dezlúme
+189.231	0	CC2	0.691	1	Šunlade
+192.217	0	CI	0.628	2	Mafteni
+195.203	0	AI	1.432	1	Kuvmáši
+198.188	0	Fixation Baseline	-1	1	-
+201.175	0	BI	1.132	1	Guftíne
+204.161	0	BI	0.712	1	Šozdom
+207.148	0	CI	0.856	1	Boškodo
+210.134	0	Perceptual Control	-1	2	-
+213.12	0	BC1	0.59	1	Monšapa
+216.107	0	BI	1.17	2	Pelsapa
+219.092	0	Fixation Baseline	-1	1	-
+223.079	0	CC2	0.92	1	Temdus
+226.064	0	Fixation Baseline	-1	1	-
+230.05	0	CC2	0.622	1	Tingoda
+233.036	0	Fixation Baseline	-1	1	-
+237.022	0	BC2	1.066	1	Kestuk
+240.012	0	BC1	1.022	1	Gúftuk
+242.997	0	AC1	0.656	1	Pevlin
+245.984	0	AC1	1.322	1	Pivlon
+248.97	0	Perceptual Control	0.254	1	-
+251.957	0	CC1	0.783	1	Zuskem
+254.943	0	Perceptual Control	0.01	1	-
+257.929	0	CI	0.75	1	Šílgup
+260.914	0	Perceptual Control	-1	2	-
+263.9	0	Fixation Baseline	-1	1	-
+267.886	0	BC2	0.87	1	Šozdine
+271.872	0	BC2	1.538	1	Leškápa
+275.858	0	CC2	0.546	1	Pefnedi
+278.843	0	CC1	0.607	2	Vutkas
+281.83	0	Perceptual Control	-1	2	-
+284.816	0	Fixation Baseline	-1	1	-
+288.803	0	AC2	0.974	1	Fumtali
+292.79	0	Fixation Baseline	-1	1	-
+295.777	0	Perceptual Control	-1	2	-
+298.764	0	BI	0.878	1	Pelsuk
+301.75	0	Perceptual Control	-1	2	-
+304.736	0	Fixation Baseline	-1	1	-
+307.726	0	Perceptual Control	-1	2	-
+310.709	0	AI	0.705	1	Kívmoš
+313.695	0	BI	0.749	1	Faldine
+316.682	0	AC1	0.574	1	Zítlof
+319.667	0	Fixation Baseline	-1	1	-
+322.653	0	Perceptual Control	-1	2	-
+325.638	0	Fixation Baseline	-1	1	-
+328.624	0	BC1	0.858	1	Leškuk
+332.611	0	AC2	0.82	1	Mozdešu
+335.597	0	Perceptual Control	-1	2	-
+338.584	0	AI	0.642	1	Femtil
+341.571	0	AI	0.655	1	Zotléfu
+344.555	0	Fixation Baseline	-1	1	-
+347.542	0	CI	0.556	1	Komlen
+350.528	0	AI	0.758	1	Mizdoš
+354.515	0	AC2	0.938	1	Bofselu
+357.502	0	CI	0.94	1	Valtebi
+360.488	0	Perceptual Control	-1	2	-
+363.475	0	CI	0.512	1	Piftona
+366.462	0	AI	1.036	1	Bufsali
+369.447	0	CC1	0.624	1	Sošdubu
+372.434	0	BI	0.704	1	Faldapa
+375.42	0	Perceptual Control	-1	2	-
+378.405	0	Fixation Baseline	-1	1	-
