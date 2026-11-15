@@ -1,0 +1,28 @@
+{
+    "BIDSVersion": "1.8.0",
+    "Name": "The Neural Basis of Morphological Learning of Words",
+    "License": "CC0",
+    "ReferencesAndLinks": [
+        "https://openneuro.org/"
+    ],
+    "HowToAcknowledge": "Please cite the publication describing The Neural Basis of Morphological Learning of Words.",
+    "Funding": [
+        "National Science Foundation BCS 1753626, awarded to James R. Booth",
+        "National Science Foundation BCS 1753611, awarded to Vedran Dronjic",
+        "United States-Israel Binational Science Foundation 2017613, awarded to Tali Bitan"
+    ],
+    "Authors": [
+        "Batiah Keissar",
+        "Brianna Yamasaki",
+        "Upasana Nathaniel",
+        "Avantika Mathur",
+        "Jiuru Wang",
+        "Demi Zhang",
+        "Haaris Khan",
+        "Tali Bitan",
+        "James R. Booth"
+    ],
+    "Acknowledgements": "This project was supported by National Science Foundation BCS 1753626 awarded to James R. Booth, National Science Foundation BCS 1753611 awarded to Vedran Dronjic, and United States-Israel Binational Science Foundation 2017613 awarded to Tali Bitan.",
+    "DatasetProvenance": "The dataset was collected at the Brain Development Lab at Vanderbilt University as part of a study investigating the neural mechanisms of morphological learning and consolidation in adults learning an artificial language.",
+    "DatasetDOI": "doi:10.18112/openneuro.ds008844.v1.0.0"
+}
